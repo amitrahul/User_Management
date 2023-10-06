@@ -1,0 +1,30 @@
+.cardWrapper {
+  width: 400px;
+  height: 320px;
+  border-radius: 15px;
+  background-color: rgb(223, 225, 66);
+  margin: 40px;
+}
+
+.userName {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  padding-top: 15px;
+}
+
+.userDetail {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  padding-left: 20px;
+  justify-content: space-between;
+  padding-right: 20px;
+  color: rgb(18, 22, 18);
+}
+
+.cardId {
+  width: 150px;
+  text-align: center;
+}
+
