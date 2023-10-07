@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import DashBoard from "./components/Dashboard/Dashboard";
 import NavBar from "./components/NavBar/NavBar";
-import styles from "./App.module.css";
 import NewUser from "./components/NewUser/NewUser";
 import { createBrowserRouter, RouterProvider , Outlet } from "react-router-dom";
 import Errors from "./components/Error/Errors";
