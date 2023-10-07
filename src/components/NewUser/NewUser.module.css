@@ -1,0 +1,14 @@
+.formWrapper{
+    width :60%;
+    margin: 8% auto 0 auto;
+
+}
+
+.formWrapper > div{
+    margin-top: 30px;
+}
+
+.userBtn{
+    width: max-content;
+
+}

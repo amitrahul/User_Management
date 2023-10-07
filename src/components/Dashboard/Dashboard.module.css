@@ -3,3 +3,13 @@
     display: flex;
     justify-content: space-around;
 }
+
+.newUser{
+    border: 5px solid rgba(71, 124, 17, 0.485);
+    max-width: fit-content;
+    padding: 8px;
+    background-color: rgba(40, 38, 178, 0.471);
+   margin: auto;
+   color: maroon;
+   font-weight: 700;
+}

@@ -1,8 +1,23 @@
+.navWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: rgb(72, 240, 240);
+}
+
 .nav{
-    text-align: center;
     font-size: xxx-large;
-    margin: 26px;
     color: rgb(81, 32, 56);
     font-weight: 900;
-    background-color: rgb(72, 240, 240);
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+.user{
+    font-size: xx-large;
+    color:  rgb(81, 32, 56);
+    font-weight: 800;
 }

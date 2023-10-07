@@ -6,11 +6,18 @@
   margin: 40px;
 }
 
+.cardHeader{
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  justify-content: space-evenly;
+}
+
 .userName {
-  text-align: center;
+  color: seagreen;
   font-size: xx-large;
   font-weight: bolder;
-  padding-top: 15px;
+  
 }
 
 .userDetail {
